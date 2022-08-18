@@ -1,3 +1,7 @@
+*{
+    font-family: sans-serif;
+}
+
 .top-header{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -119,7 +123,8 @@ li > a:hover {
     'buy sell rent';
     margin: 60px 100px;
     height:500px;
-    
+
+
 }
 
 .first-box {
@@ -191,4 +196,40 @@ li > a:hover {
 .rent-home{
     width: 400px;
     height: 230px;
+}
+
+.btn1{
+
+
+    background-color: white;
+    border-radius: 5px;
+    height: 35px;
+    width: 135px;
+    margin: 30px 120px;
+    border-color: blue;
+    color: blue;
+}
+
+.btn2{
+
+
+    background-color: white;
+    border-radius: 5px;
+    height: 35px;
+    width: 135px;
+    margin: 69px 120px;
+    border-color: blue;
+    color: blue;
+}
+
+.btn3{
+
+
+    background-color: white;
+    border-radius: 5px;
+    height: 35px;
+    width: 135px;
+    margin: 69px 120px;
+    border-color: blue;
+    color: blue;
 }
